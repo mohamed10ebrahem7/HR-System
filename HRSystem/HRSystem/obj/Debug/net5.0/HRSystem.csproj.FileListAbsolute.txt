@@ -1,0 +1,1490 @@
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\nameDate.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRsystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\nameDate.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\3\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\nameDate.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\NV\Desktop\GradProject\4\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\Graduation Project\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\5\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\EPPlus.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Excel.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Error\NotFound.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\EPPlus.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Excel.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Error\NotFound.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\NV\Desktop\GradProject\7\HRSystem\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\EPPlus.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Excel.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Error\NotFound.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\appsettings.json
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.exe
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.deps.json
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.json
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.runtimeconfig.dev.json
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ref\HRSystem.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\EPPlus.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Humanizer.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OOXML.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXml4Net.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.OpenXmlFormats.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\NPOI.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ICSharpCode.SharpZipLib.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Data.OleDb.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.AssemblyReference.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfoInputs.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.AssemblyInfo.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorAssemblyInfo.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\scopedcss\bundle\HRSystem.styles.css
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\staticwebassets\HRSystem.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.input.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.TagHelpers.output.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorCoreGenerate.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Create.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Edit.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Excel.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\AttentanceReport\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Edit.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Department\New.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Employee\GetEmployees.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Error\NotFound.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Edit.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\GeneralSetting\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Edit.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\OfficialHolidays\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Index.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.Views.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.csproj.CopyComplete
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\ref\HRSystem.dll
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.pdb
+C:\Users\lenovo\Downloads\HRSystem (3)\HRSystem\HRSystem\obj\Debug\net5.0\HRSystem.genruntimeconfig.cache
+C:\Users\Mo.Ebrahim\Documents\C#\HRSystem\HRSystem\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Mo.Ebrahim\Documents\C#\HRsystem\HRSystem\obj\Debug\net5.0\Razor\Views\SalaryReport\Details.cshtml.g.cs
